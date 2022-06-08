@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yousef Mahmoud</h1>
 <h3 align="center">A computer science student and DevOps enthusiast</h3>
 
-- 🔭 I’m currently working on **Deploying a dynamic website using AWS CloudFormation**
+- 🔭 I’m currently working on **Deploying a high availability web app using AWS CloudFormation**
 
 - 🌱 I’m currently learning **Udacuty AWS Cloud DevOps Engineer Nanodegree**
 
