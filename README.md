@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yousef Mahmoud</h1>
 <h3 align="center">A computer science student and DevOps enthusiast</h3>
 
-- 🔭 I’m currently working on **Creting CI/CD pipelines**
+- 🔭 I’m currently working on **Give Your Application Auto-deploy Superpowers "Udacity cloud DevOps engineer Nanodegree final project"**
 
 - 🌱 I’m currently learning **Udacuty AWS Cloud DevOps Engineer Nanodegree**
 
